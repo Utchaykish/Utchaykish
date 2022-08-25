@@ -13,5 +13,5 @@ I'm a Software Engineer, Content Creator, and Graphic Designer who currently is 
 - 📫 You can [view my resume](#) and contact me by emailing uchennangwu21@gmail.com
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=UchennaNgwu&show_icons=true&include_all_commits=true&hide_border=true" alt="Utchay's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UchennaNgwu&langs_count=8&layout=compact&hide_border=true" alt="Utchay's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Utchaykish&show_icons=true&include_all_commits=true&hide_border=true" alt="Utchay's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utchaykish&langs_count=8&layout=compact&hide_border=true" alt="Utchay's GitHub stats" /> |
 | ------------- | ------------- |
